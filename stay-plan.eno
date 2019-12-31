@@ -21,10 +21,10 @@ duration: 3s
 # walk the other way around
 duration: 3s
 
-# normal hosehold ambiant distraction
+# walk away
 distance: 6ft
 
-# normal hosehold ambiant distraction
+# walk away
 distance: across room
 
 # build duration
