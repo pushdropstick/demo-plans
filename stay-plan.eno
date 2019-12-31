@@ -1,0 +1,64 @@
+name: Stay Plan
+terminal: Dog maintains down-stay for 2 minutes at other end of room from trainer amid normal household distractions
+author: The Academy for Dog Trainers
+operant
+
+# food dangle
+duration: 1s
+
+# food dangle
+duration: 3s
+
+# food on ground
+duration: 1s
+
+# food on ground
+duration: 3s
+
+# step four with trainer on the other side
+duration: 3s
+
+# walk the other way around
+duration: 3s
+
+# normal hosehold ambiant distraction
+distance: 6ft
+
+# normal hosehold ambiant distraction
+distance: across room
+
+# build duration
+interval: single
+duration: 1s
+
+# build duration
+interval: single
+duration: 3s
+
+# build duration
+interval: single
+duration: 5s
+
+# build duration
+interval: variable
+duration: 10s
+
+# build duration
+interval: variable
+duration: 15s
+
+# build duration
+interval: variable
+duration: 20s
+
+# build duration
+interval: variable
+duration: 30s
+
+# build duration
+interval: variable
+duration: 1m
+
+# build duration
+interval: variable
+duration: 2m
